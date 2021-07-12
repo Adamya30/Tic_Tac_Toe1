@@ -23,6 +23,7 @@ namespace Tic_Tac_Toe
             this.Close();
         }
 
+
         private void button2_Click(object sender, EventArgs e)
         {
             Application.Exit();
